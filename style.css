@@ -1,0 +1,53 @@
+
+.headerBackground {
+    position: static;
+    display: block;
+    overflow: visible;
+    top: 0;
+    height: auto;
+    min-height: 750px;
+    /* margin-bottom: 50px; */
+    /* padding-bottom: 70px; */
+    background-image:linear-gradient(to bottom, rgb(1, 7, 34), rgba(0, 0, 0, 0.5)), url(img/35523115883_4e1ad9b9f8_k.jpg);
+    flex-direction: column;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    white-space: normal;
+    object-fit: cover;
+    -o-object-fit: fill;
+}
+
+#highlightedCampus {
+    margin-top: 250px;
+    /* color: blue; */
+    /* font-weight: 900; */
+}
+
+/* @media (min-width: 100px) {
+    .header-background {
+        background-image: url(img/35523115883_4e1ad9b9f8_k.jpg);
+    }
+} */
+
+.thumbnailImg {
+    max-width: 250px;
+}
+
+.highlightedCampus {
+    /* margin-top:200px; */
+}
+
+.Future {
+    /* margin-top: 350px; */
+    margin-bottom: 5px;
+}
+
+.decision {
+    font-size: 25px;
+}
+
+.offCanvas {
+    /* margin-top: 200px; */
+}
